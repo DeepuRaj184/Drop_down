@@ -2,8 +2,6 @@ import {createContext,useContext } from "react";
 import { useState } from "react";
 const dropContext = createContext();
 
-
-
 function Dropvalue(){
     const value = useContext(dropContext)
     return value

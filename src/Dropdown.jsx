@@ -1,4 +1,3 @@
-import { cloneElement } from "react"
 import styles from "./css/Dropdown.module.css"
 import { Dropvalue } from "./dropcontext"
 
